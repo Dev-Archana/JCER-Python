@@ -3,3 +3,7 @@ print(a)
 print(type(a))
 l1=a*3
 print(l1)
+a.append("Hello")
+print(a)
+a.remove("Hello")
+print(a)
