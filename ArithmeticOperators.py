@@ -1,0 +1,10 @@
+#Arithmetic Operators 
+a=int(input("Enter First Number :"))
+b=int(input("Enter First Number : "))
+print("Sum of two Numbers :",a+b)
+print("Subtraction of two Numbers :",a-b)
+print("Multiplication of two Numbers :",a*b)
+print("Division of two Numbers :",a/b)
+print("Mod of two Numbers :",a%b)
+print("Power/Exponential Operator :",a**b)
+print("Floor Operator :",a//b)
