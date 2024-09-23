@@ -20,8 +20,11 @@ a.Product_id
 b.Product_float
 c.GST</li></a>
   <a href="ConcatinationOfStrings.py"><li>concatination operations</li></a>
-<!--  <a href=""><li></li></a>
-  <a href=""><li></li></a>
-  <a href=""><li></li></a>
-  <a href=""><li></li></a> -->
+ <a href="ArithmeticOperators.py"><li>Write a program ti demonstrate Arithmentic Operators in python</li></a>
+  <a href="AssignmentOperators.py"><li>Write a program to demonstrate Assignment Operators in python Programming</li></a>
+  <a href="RelationalOperators.py"><li>Write a program to demonstrate Relational Operators in Python </li></a>
+  <a href="LogicalOperator.py"><li>Write a program to demonstrate Logical Operators in python Prohgramming</li></a> 
+  <a href="Conversion.py"><li>Write a program for Basic Conversion in python programming</li></a> 
+  <a href="BitwiseOperators.py"><li>Write a program to demonstrate Bitwise operators </li></a> 
+  <a href="ListDataType.py"><li>Write a program to demonstrate list datatype</li></a> 
 </ol>
