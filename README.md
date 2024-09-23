@@ -12,4 +12,11 @@
   <a href="MathematicalOperations.py"><li>Take the inputs for end user and add basic mathematical operations</li></a>
   <a href="SwappingOfNumberWith3rdVariable.py"><li>Program to swap two numbers with the help of the third variable.</li></a>
   <a href="SwappingOfTwoNumberWithOut3rdVariable.py"><li>Swapping of Two Numbers without using 3rd variable.</li></a>
+  <a href="DataTypesInPython.py"><li>demonstartion of datatypes in python</li></a>
+  <a href="FindingType.py"><li>finding type of given variable </li></a>
+  <a href="UseOfID.py"><li>How To Use Id Method in python</li></a>
+  <a href="ShoppingBill.py"><li>Shopping bill printing
+a.Product_id
+b.Product_float
+c.GST</li></a>
 </ol>
