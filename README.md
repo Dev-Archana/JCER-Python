@@ -28,4 +28,5 @@ c.GST</li></a>
   <a href="BitwiseOperators.py"><li>Write a program to demonstrate Bitwise operators </li></a> 
   <a href="ListDataType.py"><li>Write a program to demonstrate list datatype</li></a> 
   <a href="TupleDataTyps.py"><li>Demonstrate tuple datatype</li></a> 
+  <a href="Pattern1.py"><li> Simple Triangle Pattern </li></a> 
 </ol>
