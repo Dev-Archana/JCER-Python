@@ -29,4 +29,6 @@ c.GST</li></a>
   <a href="ListDataType.py"><li>Write a program to demonstrate list datatype</li></a> 
   <a href="TupleDataTyps.py"><li>Demonstrate tuple datatype</li></a> 
   <a href="Pattern1.py"><li> Simple Triangle Pattern </li></a> 
+  <a href="ModuleNum.py"><li> Statistical and mathematical functions present in numpy  </li></a> 
+  <a href="MatplotlibModule.py"><li> Matplotlib library methods importing and plotting graphs for different inputs </li></a> 
 </ol>
