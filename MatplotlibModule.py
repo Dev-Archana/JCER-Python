@@ -18,9 +18,9 @@ y_arr=np.array([1,2,3,4,5])
 
 # Create a scatter pltot
 plt.scatter(x_arr,y_arr) # Scatter pltot
-plt.pltot(x_arr,y_arr,marker="o",color="red")      #line pltot without line
+plt.plot(x_arr,y_arr,marker="o",color="red")      #line pltot without line
 plt.show()
-plt.pltot(x_arr,y_arr) # line pltot with line
+plt.plot(x_arr,y_arr) # line pltot with line
 
 # Set the x-axis label
 plt.xlabel('X-Values')
@@ -35,10 +35,10 @@ plt.show()
 xpoints = np.array([1, 2, 6, 8])
 ypoints = np.array([3, 8, 1, 10])
 
-plt.pltot(xpoints, ypoints)
+plt.plot(xpoints, ypoints)
 plt.show()
 
-plt.pltot(xpoints,marker='*',color = 'black')
+plt.plot(xpoints,marker='*',color = 'black')
 plt.show()
 
 """ 
